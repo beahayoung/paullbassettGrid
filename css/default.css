@@ -1,0 +1,7 @@
+@charset "uft-8";
+
+body{margin:0;}
+li {list-style-type:none;}
+ul {margin:0; padding:0;}
+a {text-decoration:none; outline:0;}
+button {cursor: pointer;}
